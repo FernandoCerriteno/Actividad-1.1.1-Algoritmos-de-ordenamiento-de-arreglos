@@ -1,3 +1,8 @@
+/*
+  Actividad 1.1.1
+  Fernando Cerriteño Magaña - A01702790
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
